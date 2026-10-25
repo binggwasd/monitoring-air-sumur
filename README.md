@@ -17,4 +17,4 @@ Arsitektur dari gateway:
 
 ## Log Pengembangan
 Log pengembangan dapat diakses melalui link berikut:<br>
-https://docs.google.com/spreadsheets/d/1IfR_lE6kkHo0-PhQHJhc2RqZ3cYVjlXsxDCJ8bkbZJM/edit?gid=2011546994#gid=2011546994
+https://docs.google.com/spreadsheets/d/10sozIkcA6TWHllkZgNayfV1v6P-OyuUW0aIBXploR2E/edit?gid=451594527#gid=451594527
