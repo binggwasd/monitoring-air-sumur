@@ -7,3 +7,10 @@ Hardware dari sistem ini dibagi menjadi 2 bagian, sensor node dan gateway. Senso
 Sensor node tidak memakai baterai karena bersifat aktif setiap saat. Hal tersebut akan menguras baterai dengan sangat cepat, oleh karena itu daya akan disalurkan melalui kabel yang sama untuk mengirim data dari Gateway menggunakan passive Power over Ethernet (PoE).
 
 Data dari sensor akan dapat dilihat melalui aplikasi mobile yang menggunakan cloud service Firebase sebagai backend serverless. Data akan disimpan di Cloud Firestore dari Firebase.
+
+## Arsitektur Hardware
+Arsitektur dari node sensor:
+<img width="1742" height="342" alt="Sensor Node V1 DM" src="https://github.com/user-attachments/assets/8d3563f7-a07a-44e4-be3a-7bc6e8fd00c1" />
+
+Arsitektur dari gateway:
+<img width="1320" height="622" alt="Gateway V1 DM" src="https://github.com/user-attachments/assets/298108c5-a536-4638-9652-84335fd91eb6" />
