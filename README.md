@@ -14,3 +14,7 @@ Arsitektur dari node sensor:
 
 Arsitektur dari gateway:
 <img width="1320" height="622" alt="Gateway V1 DM" src="https://github.com/user-attachments/assets/298108c5-a536-4638-9652-84335fd91eb6" />
+
+## Log Pengembangan
+Log pengembangan dapat diakses melalui link berikut:<br>
+https://docs.google.com/spreadsheets/d/1IfR_lE6kkHo0-PhQHJhc2RqZ3cYVjlXsxDCJ8bkbZJM/edit?gid=2011546994#gid=2011546994
