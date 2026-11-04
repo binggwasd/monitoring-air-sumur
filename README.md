@@ -8,6 +8,19 @@ Sensor node tidak memakai baterai karena bersifat aktif setiap saat. Hal tersebu
 
 Data dari sensor akan dapat dilihat melalui aplikasi mobile yang menggunakan cloud service Firebase sebagai backend serverless. Data akan disimpan di Cloud Firestore dari Firebase.
 
+# Hardware yang di butuhkan
+Sisi sensor:
+1. Arduino Uno
+2. DFRobot: Analog / Digital Turbidity Sensor
+3. DS18B20 Temperature Sensor
+4. XY-485 (Sisi sensor)
+5. SEN-0175
+
+Sisi gateway:
+1. ESP32-DevKitC
+2. XY-485 (Sisi gateway)
+3. 5V Buck Converter
+
 ## Arsitektur Hardware
 Arsitektur dari node sensor:
 <img width="1742" height="342" alt="Sensor Node V1 DM" src="https://github.com/user-attachments/assets/8d3563f7-a07a-44e4-be3a-7bc6e8fd00c1" />
